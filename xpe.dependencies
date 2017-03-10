@@ -6,5 +6,16 @@
   {
     "repository": "android_kernel_cyanogen_msm8916",
     "target_path": "kernel/cyanogen/msm8916"
+  },
+  {
+  "remote": "Muppet",
+  "repository": "proprietary_vendor_yu",
+  "branch":      "cm-14.1"
+  },
+    {
+    "remote": "cm",
+    "repository": "android_device_qcom_common",
+    "target_path": "device/qcom/common",
+    "branch":      "cm-14.1"
   }
 ]
